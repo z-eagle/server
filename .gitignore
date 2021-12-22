@@ -1,0 +1,7 @@
+/server
+/*.exe
+/.idea/
+/*.db
+/go.sum
+*.iml
+
